@@ -1,0 +1,17 @@
+
+    <!DOCTYPE html><html><head><h1>RILEVAZIONI SENSORE ARDUINO</h1><h2>Collegamento con il dispositivo avvenuto con successo!</h2>
+    <style type=""text/css"">table, th,  td{background: #00bfff; border: 1px solid black;border-collapse: collapse;text-align: center;}</style><title>Tabella</title></head>
+    <body bgColor= #20b2aa>
+    <table style=""width: 15%;""><tr><th>Data e ora</th><th>Valore</th></tr>
+
+<tr><td>2023-02-09 08:58:40</td><td>370</td></tr>
+<tr><td>2023-02-09 08:58:42</td><td>369</td></tr>
+<tr><td>2023-02-09 08:58:44</td><td>369</td></tr>
+<tr><td>2023-02-09 08:58:46</td><td>367</td></tr>
+<tr><td>2023-02-09 08:58:48</td><td>367</td></tr>
+<tr><td>2023-02-09 08:58:50</td><td>365</td></tr>
+<tr><td>2023-02-09 08:58:52</td><td>366</td></tr>
+<tr><td>2023-02-09 08:58:54</td><td>364</td></tr>
+<tr><td>2023-02-09 08:58:56</td><td>361</td></tr>
+<tr><td>2023-02-09 08:58:58</td><td>359</td></tr>
+</table></body><script>setInterval(function() {location.reload();}, 10000);</script></html>

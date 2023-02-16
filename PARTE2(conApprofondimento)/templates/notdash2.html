@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<body  style="font-family:arial, sans-serif">
+    <h1>{{header}}</h1>
+    <div id="chart" class="chart"></div>
+    <div><br><br>{{ description1}}</div>
+    <div>{{ description2}}</div>
+    </div>
+
+</body>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script type="text/javascript">
+    var graphs = {{graphJSON | safe}};
+    Plotly.plot('chart',graphs,{});   
+    setInterval(function() {
+       location.reload();
+    }, 10000); 
+</script>
+</html>
