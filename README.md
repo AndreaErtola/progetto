@@ -1,2 +1,17 @@
 # progetto
-![Diagramma delle classi](//www.plantuml.com/plantuml/png/nLN1Rjim3BtxAtICCVG7X25eaQ20BrlHfhiCEsWEun6mfS2Y1spP_dsJPAkY4XTUWI6NYduapVUUsFZMakffwDgYRfMrujwG4QT2Y7S-hFP22jJaWItOkiUVQ3H8OQb7tSJ2hI8bnTSV19-_UF0HQo1IrJRq9v2SWk9tCdIx-_Y_vewlNtbj1qEcP70PULIwwM6Fe0a2bnHXb3wOZd6PvUZuLTebf8jXXnt4n3rgu72a7-UY5DN6j2tKX4Q_Fyl3-XBzuEPL570MgzHJV8dBl9RVn2Zpb7h2w3zJKFIAe8SUZgfNvufsq1rDibvuE61jMb8ls0CgebWJjDur3GwQLAetCf7Z6JVBydjpqFgjDvpC2LbuKkrtHS0xqmeLAjGwj_IlpzTnzNKNTtWqa-dXJ4cwvHX3qOUpv7c-FBc3cUBvdwHyAsCjXsNw4ES6zqupJZvRwBLYRiRv5pVWxTVEU_rVV89cm7pNaW881UQyS_CDGhlHPa4xToEist93OjUgp9v390P_bDaOhdvk8lzN5OkNWizYUlzb56lanKd2zuIryX-icvjVwuc9a69ZD25eACwtF2-zizRKg6OhKo1vyIL7GyCeHWgF5XVioEeS2WlgFhd1OinDigSFzDZlaBWD1HUJVKYAnygJTvbHXqDlGU-7hlq3)
+Regular **Markdown** here.
+
+<div hidden>
+```
+@startuml firstDiagram
+
+Alice -> Bob: Hello
+Bob -> Alice: Hi!
+		
+@enduml
+```
+</div>
+
+![](firstDiagram.svg)
+
+Some more markdown.
